@@ -34,5 +34,6 @@ The company wanted to understand:
 
 ## Dashboard
 
-(image)
+<img width="1499" height="1199" alt="Dashboard 1" src="https://github.com/user-attachments/assets/355e1b65-8e6c-41a6-ad7b-27ed6bf48dec" />
+
 
